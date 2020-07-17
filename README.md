@@ -1,6 +1,8 @@
 <h1> Hola amigos 👋 👨‍💻</h1>
 
-<img alt="Faisal's GIF" src="https://user-images.githubusercontent.com/41644472/87728377-8cf9bc00-c7e0-11ea-9126-1346fce5a7ff.gif">
+![](https://visitor-badge.glitch.me/badge?page_id=faisalAkhtar.faisalAkhtar)
+
+<img alt="Faisal's GIF" src="https://raw.githubusercontent.com/faisalAkhtar/faisalAkhtar/master/GIF.gif">
 
 <table>
   <tr>
