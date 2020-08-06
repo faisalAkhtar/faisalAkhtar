@@ -1,6 +1,6 @@
 <h1> Hola amigos 👋 👨‍💻</h1>
 
-![](https://visitor-badge.glitch.me/badge?page_id=faisalAkhtar.faisalAkhtar)
+![](http://faisals-app.glitch.me/visitors)
 
 <img alt="Faisal's GIF" src="https://raw.githubusercontent.com/faisalAkhtar/faisalAkhtar/master/GIF.gif">
 
