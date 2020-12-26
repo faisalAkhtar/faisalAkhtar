@@ -1,34 +1,21 @@
 <h2 align='center'>Hi, I am Faisal 👋 👨‍💻</h2>
+<h4 align='center'>Passionate, Optimistic, Deterministic</h4>
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=faisalAkhtar.faisalAkhtar">
+![](http://faisals-app.glitch.me/visitors?user=faisalAkhtar)
 
-<img alt="Faisal's GIF" src="https://raw.githubusercontent.com/faisalAkhtar/faisalAkhtar/master/GIF.gif">
+Socials : [![Linkedin](https://img.shields.io/badge/FaisallAkhtarr-0072b1?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/FaisallAkhtarr/) [![Twitter](https://img.shields.io/badge/FaisallAkhtarr-00acee?style=flat&logo=twitter&logoColor=white)](https://twitter.com/FaisallAkhtarr/) [![Instagram](https://img.shields.io/badge/faisallakhtarr-e4405f?style=flat&logo=instagram&logoColor=white)](https://instagram.com/faisallakhtarr/) [![Facebook](https://img.shields.io/badge/FaisallAkhtarr-3b5999?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/FaisallAkhtarr/)
 
-<table>
-  <tr>
-    <th colspan='4'>Socials</th>
-    <th>Profile</th>
-  </tr>
-  <tr>
-    <th><a href="https://linkedin.com/in/faisalAkhtar/"><img alt="Linkdein" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"> / faisalakhtar</a></th>
-    <th><a href="https://twitter.com/FaisallAkhtarr/"><img alt="Twitter" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"> / faisallakhtarr </a></th>
-    <th><a href="https://instagram.com/faisallakhtarr/"><img alt="Instagram" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"> / faisallakhtarr </a></th>
-    <th><a href="https://www.facebook.com/FaisallAkhtarr/"><img alt="Facebook" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"> / faisallakhtarr </a></th>
-    <th><a href="https://faisalakhtar.github.io/"><img alt="Website" width="16" src="https://user-images.githubusercontent.com/41644472/87731835-0d241f80-c7e9-11ea-879c-4cfa526b953b.png"> https://faisalakhtar.github.io</a></th>
-  </tr>
-</table>
+Profile: [![Profile](https://img.shields.io/badge/faisalakhtar.github.io-blue?style=flat&logo=google-chrome&logoColor=white)](https://faisalakhtar.github.io/)
 
-<details>
-<summary>Just some random details information me</summary>
-<ul>
-  <li>I’m currently persuing my masters in CS (Computer Science) from University of Delhi.</li>
-  <li>I recently completed my bachelors in CS from the same.</li>
-  <li>You can reach me at faisal.mcs20.du@gmail.com or through linkedin @FaisallAkhtarr</li>
-  <li>To know more about my technical experience, checkout my profile - faisalakhtar.github.io</li>
-  <li>Outside of studies, I like watching movies and listening to music.</li>
-  <li>I also really enjoy taking long walks and traveling with my headphones on, listening to music.</li>
-  <li>Sports: I am an excellent cricket fan and an average volleyball player.</li>
-  <li>Love? Biryani / travelling / software development / maths</li>
-  <li>I also like playing chess. Let's play sometime!</li>
-</ul>
-</details>
+![Faisal's GIF](https://raw.githubusercontent.com/faisalAkhtar/faisalAkhtar/master/GIF.gif)
+.
+
+- I’m currently persuing my masters in CS (Computer Science) from University of Delhi.
+- I recently completed my bachelors in CS from the same.
+- You can reach me at faisal.mcs20.du@gmail.com or through linkedin @FaisallAkhtarr
+- To know more about my technical experience, checkout my profile - faisalakhtar.github.io
+- Outside of studies, I like watching movies and listening to music.
+- I also really enjoy taking long walks and traveling with my headphones on, listening to music.
+- Sports: I am an excellent cricket fan and an average volleyball player.
+- Love? Biryani / travelling / software development / maths
+- I also like playing chess. Let's play sometime!
